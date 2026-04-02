@@ -1,0 +1,7 @@
+build/
+dist/
+nbproject/private/
+.nb-gradle/
+*.class
+*.jar
+manifest.mf
